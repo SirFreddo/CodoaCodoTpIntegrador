@@ -1,0 +1,12 @@
+.margin{
+       max-width: 650px;
+}
+.Footer_link{
+       background-color: red;
+       max-width:100px;
+}
+
+.Underline{
+       text-decoration:underline;
+       text-decoration-style: dotted;
+}
